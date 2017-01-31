@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Agent]
+﻿CREATE TABLE [dbo].[Agents]
 (
 	[Id] INT NOT NULL PRIMARY KEY Identity, 
     [FirstName] NVARCHAR(200) NULL, 

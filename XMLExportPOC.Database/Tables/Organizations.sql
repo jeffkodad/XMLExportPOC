@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Organization]
+﻿CREATE TABLE [dbo].[Organizations]
 (
 	[Id] INT NOT NULL PRIMARY KEY Identity,
 	[DBA] NVARCHAR(200) NULL, 

@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Producer]
+﻿CREATE TABLE [dbo].[Producers]
 (
 	[Id] INT NOT NULL PRIMARY KEY Identity
 )

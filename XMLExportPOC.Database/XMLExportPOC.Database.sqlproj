@@ -60,14 +60,14 @@
     <Folder Include="Tables" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Tables\Agent.sql" />
-    <Build Include="Tables\Party.sql" />
-    <Build Include="Tables\Person.sql" />
-    <Build Include="Tables\Carrier.sql" />
-    <Build Include="Tables\Organization.sql" />
-    <Build Include="Tables\Producer.sql" />
-    <Build Include="Tables\Holding.sql" />
-    <Build Include="Tables\TXLifeRequest.sql" />
+    <Build Include="Tables\Agents.sql" />
+    <Build Include="Tables\Parties.sql" />
+    <Build Include="Tables\People.sql" />
+    <Build Include="Tables\Carriers.sql" />
+    <Build Include="Tables\Organizations.sql" />
+    <Build Include="Tables\Producers.sql" />
+    <Build Include="Tables\Holdings.sql" />
+    <Build Include="Tables\TXLifeRequests.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="XMLExportPOC.Database.refactorlog" />

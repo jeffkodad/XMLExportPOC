@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Party]
+﻿CREATE TABLE [dbo].[Parties]
 (
 	[PartyId] INT NOT NULL PRIMARY KEY Identity, 
     [PartyTypeCode] NVARCHAR(50) NULL, 

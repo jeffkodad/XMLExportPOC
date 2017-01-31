@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[TXLifeRequest]
+﻿CREATE TABLE [dbo].[TXLifeRequests]
 (
 	[TXLifeRequestId] INT NOT NULL PRIMARY KEY Identity, 
     [PollNumber] NVARCHAR(50) NULL, 

@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[Holding]
+﻿CREATE TABLE [dbo].[Holdings]
 (
 	[Id] INT NOT NULL PRIMARY KEY Identity, 
     [PollNumber] NVARCHAR(50) NULL, 
